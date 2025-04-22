@@ -1,0 +1,29 @@
+a{
+    background-color: #2B3844;
+    text-decoration: none;
+    color: aliceblue;
+}
+header div{
+    background-color: #2B3844;
+    width: 1440px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+section div{
+    width: 264px;
+    height: 336px;
+    background-color: #2B3844;
+}
+ div img{
+    width: 100%;
+ }
+
+ 
